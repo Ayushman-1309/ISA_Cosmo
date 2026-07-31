@@ -1,6 +1,6 @@
 # Constraining Hubble Constant ($H_0$) and Density Parameter ($\Omega_m$) Using Supernovae (Type Ia) from Pantheon+SH0ES: A Hubble Diagram Analysis
 
-This repository contains the project completed during the **BRICS Astronomy & IDIA Data Analytics Training Program**. The project focuses on utilizing cosmological observational data to estimate key parameters governing the expansion of our Universe.
+This repository contains the project completed during the **India Space Academy - Internship**. The project focuses on utilizing cosmological observational data to estimate key parameters governing the expansion of our Universe.
 
 ## 📌 Project Objective
 The main objective of this project is to estimate key cosmological parameters using observational data from Type Ia supernovae, specifically based on the **Pantheon+SH0ES** dataset. 
@@ -24,4 +24,4 @@ The analysis utilizes the **Pantheon+SH0ES** dataset, which is one of the most c
 * **Domain:** Observational Cosmology, Data Analytics, Astrophysics
 
 ## 🤝 Acknowledgments
-This project was developed as part of the **BRICS Astronomy & IDIA Data Analytics Training Program**, organized by BRICS Astronomy and the Inter-university Institute for Data Intensive Astronomy (IDIA). 
+This project was developed as part of the **India Space Academy - Internship**, organized by India Space Academy under the Department of Space Education (ISA). 
