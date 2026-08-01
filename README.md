@@ -7,7 +7,7 @@ This repository contains two projects completed during the **India Space Academy
 | Notebook | Project |
 |---|---|
 | `ISA_Cosmo_Parameter.ipynb` | Supernova Cosmology — Hubble Constant & Density Parameter |
-| `ISA_Dynamical_mass.ipynb` | Dynamical Mass of a Galaxy Cluster |
+| `ISA_Dynamical_Mass.ipynb` | Dynamical Mass of a Galaxy Cluster |
 
 ---
 
