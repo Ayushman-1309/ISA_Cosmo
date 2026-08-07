@@ -1,6 +1,6 @@
 # India Space Academy Internship Projects
 
-This repository contains two projects completed during the **India Space Academy (ISA) — Astronomy & Astrophysics Internship**, part of the ISA Summer School, organized by the Department of Space Education, India Space Academy. Both projects apply observational astronomical data and Python-based statistical analysis to estimate fundamental physical quantities: the expansion rate of the Universe, and the mass of a galaxy cluster.
+This repository contains two projects completed during the **India Space Academy (ISA) — Astronomy & Astrophysics Internship**, part of the ISA Summer School, organized by the Department of Space Education, India Space Academy. Both projects apply observational astronomical data and Python-based statistical analysis to estimate fundamental physical quantities: the expansion rate of the Universe and the mass of a galaxy cluster.
 
 ## 📁 Repository Structure
 
